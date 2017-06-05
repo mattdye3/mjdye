@@ -1,0 +1,18 @@
+#about-me{
+  .heading{
+    text-align: center;
+
+    .headshot{
+      border-radius: 100px;
+      height: 100px;
+      margin: 0 auto;
+      overflow: hidden;
+      width: 100px;
+
+      img{
+        width: 100%;
+
+      }
+    }
+  }
+}

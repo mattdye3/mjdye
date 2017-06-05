@@ -4,7 +4,11 @@ $icon-font-path: '../fonts/';
 // endbower
 
 //Base
+@import "base/_variables.scss";
 @import "base/_base.scss";
 
 //Modules
 @import "modules/_header.scss";
+@import "modules/_about.scss";
+@import "modules/_previous-work.scss";
+@import "modules/_footer.scss";

@@ -1,0 +1,21 @@
+#previous-work{
+  .heading{
+    text-align: center;
+  }
+
+  .work-example{
+    padding: 30px 0;
+    .work-image{
+      height: 250px;
+      overflow: hidden;
+
+      img{
+        width: 100%;
+      }
+    }
+
+    .work-description{
+
+    }
+  }
+}
